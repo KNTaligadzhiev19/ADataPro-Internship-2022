@@ -1,3 +1,7 @@
+<h1 align = "center"> 
+<img src="https://cdn.discordapp.com/attachments/988516348919431252/990700593561624687/logo.png" width=50% height=50%>
+</h1>
+
 # 💻 Technologies 💻	
 - <b> GitHub: </b>  Collaboration
 - <b> Visual Studio Code: </b>  As an IDE

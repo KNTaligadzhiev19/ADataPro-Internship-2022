@@ -1,10 +1,10 @@
-
 # 💻 Technologies 💻	
 - <b> GitHub: </b>  Collaboration
 - <b> Visual Studio Code: </b>  As an IDE
 - <b> Discord: </b>  Communication
 - <b> Amazon Web Services: </b> Cloud Computing
-- <b> Azure: </b>   
+- <b> Python: </b> Programming
+- <b> Scrapy: </b> Scraping Web Data
 
 # 🚀 Languages 🚀
 <p align="left"> 
